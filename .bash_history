@@ -12,3 +12,47 @@ pwd
 whoami
 git status
 exit 
+ll
+ls
+git status 
+git init
+git status
+git add .
+ll
+git status
+git commit -m "My 1st Commit"
+git config --global user.name Fiyin
+git config --global user.email fiyinaliudmj@gmail.com
+git commit -m "My 1st commit"
+git status
+git add .
+git commit -m "my 2 commit"
+git status
+git remote -v
+git remote add JOv https://github.com/Fiyinhub/intro.git
+git status
+git diff
+git push JOv master
+git log
+git rebase
+git status
+git add .
+git commit -m "3 commit"
+git status
+git log 
+git remote -v
+git diff 
+git status
+git push jov master
+git push JOv master
+git status
+clear
+git status
+git fetch JOv master
+git status
+git log
+git diff master
+git branch 
+git status
+git log
+exit 
