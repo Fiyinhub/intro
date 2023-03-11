@@ -56,3 +56,10 @@ git branch
 git status
 git log
 exit 
+git remote -v
+git fetch JOv master
+git push JOv master
+git diff
+git status
+git log
+gitgitn
