@@ -63,3 +63,38 @@ git diff
 git status
 git log
 gitgitn
+clear
+git log
+git status
+git commit -a -m "history update"
+git status
+clear
+git log
+git config --global --list
+git push
+clear
+git fetch intro master 
+git remote
+git fetch JOv master
+git diff
+git rebase
+git branch 
+git branch development
+git git branch
+git branch
+git checkout
+git status
+git switch development
+git status
+git status
+git remote -v
+git push JOv master
+git config --global --list
+git push JOv master
+git fetch JOv master
+git status
+git log
+git diff
+git remote -v
+git status
+clear
